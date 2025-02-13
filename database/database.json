@@ -1,1 +1,107 @@
-{}
+{
+  "set": {
+    "6282189287986@s.whatsapp.net": {
+      "lang": "id",
+      "limit": 0,
+      "uang": 0,
+      "status": 0,
+      "join": true,
+      "public": true,
+      "anticall": true,
+      "original": true,
+      "readsw": false,
+      "autobio": false,
+      "autoread": true,
+      "antispam": false,
+      "autotyping": true,
+      "multiprefix": false,
+      "template": "textMessage"
+    }
+  },
+  "users": {
+    "6282189287986@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20,
+      "uang": 10000,
+      "lastclaim": 1739455971229,
+      "lastbegal": 1739455971229,
+      "lastrampok": 1739455971229
+    },
+    "6282279162428@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20,
+      "uang": 10000,
+      "lastclaim": 1739456069789,
+      "lastbegal": 1739456069789,
+      "lastrampok": 1739456069789
+    },
+    "120363364330631981@newsletter": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20,
+      "uang": 10000,
+      "lastclaim": 1739456710488,
+      "lastbegal": 1739456710488,
+      "lastrampok": 1739456710488
+    },
+    "6288980875651@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20,
+      "uang": 10000,
+      "lastclaim": 1739458387608,
+      "lastbegal": 1739458387608,
+      "lastrampok": 1739458387608
+    },
+    "120363325328533494@newsletter": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20,
+      "uang": 10000,
+      "lastclaim": 1739458387696,
+      "lastbegal": 1739458387696,
+      "lastrampok": 1739458387696
+    }
+  },
+  "game": {
+    "suit": [],
+    "menfes": [],
+    "tekateki": [],
+    "akinator": [],
+    "tictactoe": [],
+    "tebaklirik": [],
+    "kuismath": [],
+    "tebaklagu": [],
+    "tebakkata": [],
+    "family100": [],
+    "susunkata": [],
+    "tebakbom": [],
+    "tebakkimia": [],
+    "caklontong": [],
+    "tebakangka": [],
+    "tebaknegara": [],
+    "tebakgambar": [],
+    "tebakbendera": []
+  },
+  "groups": {
+    "120363298585298182@g.us": {
+      "nsfw": false,
+      "mute": false,
+      "setinfo": true,
+      "antilink": false,
+      "antitoxic": false,
+      "welcome": true,
+      "antivirtex": false,
+      "antidelete": false,
+      "waktusholat": false
+    }
+  },
+  "database": {}
+}

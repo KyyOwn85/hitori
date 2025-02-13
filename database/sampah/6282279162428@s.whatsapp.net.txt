@@ -1,0 +1,6 @@
+file '/workspaces/hitori/database/sampah/6282279162428@s.whatsapp.net0.mp4'
+duration 0.5
+file '/workspaces/hitori/database/sampah/6282279162428@s.whatsapp.net1.mp4'
+duration 0.5
+file '/workspaces/hitori/database/sampah/6282279162428@s.whatsapp.net1.mp4'
+duration 3
